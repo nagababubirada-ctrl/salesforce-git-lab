@@ -9,3 +9,9 @@ This repository is for learning Git and GitHub.
 - Branching and merging
 - Pull requests
 - Salesforce DevOps
+
+
+## My Learning Progress
+- Git repositories: Completed
+- Git commits: Completed
+- Git branches: In progress
